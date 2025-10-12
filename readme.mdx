@@ -1,0 +1,107 @@
+# tc_php_mvc_core
+
+A lightweight PHP MVC core / micro-framework for learning and building custom web apps.
+
+## Table of Contents
+
+- [Features](#features)
+- [Architecture](#architecture)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Directory Structure](#directory-structure)
+- [Configuration](#configuration)
+- [Extending & Customization](#extending--customization)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Simple routing (HTTP GET/POST)
+- Controllers, Views, Models
+- Request / Response abstraction
+- Session & flash messaging
+- Middleware support
+- Basic form validation & exception handling
+
+## Architecture / Concepts
+
+Follows MVC pattern:
+- **Model** handles data and business logic
+- **View** renders presentation
+- **Controller** processes requests, interacts with models, returns responses
+- **Router** maps URL paths to controller actions
+- **Middleware** allows pre-/post-processing
+
+## Installation
+
+```bash
+git clone https://github.com/thecodeholic/tc-php-mvc-core.git
+cd tc-php-mvc-core
+composer install
+````
+
+Point your server’s document root to `public` (or route all requests to `index.php`). Use:
+
+```bash
+php -S localhost:8000 -t public
+```
+
+## Usage
+
+1. Define routes
+2. Create controller classes extending `Controller`
+3. Create view templates in `views/`
+4. Create models extending `Model`
+5. Visit endpoints in browser
+
+## Directory Structure
+
+```
+/db
+/exception
+/form
+/middlewares
+/public
+/views
+/controllers
+/models
+Application.php
+Controller.php
+Model.php
+Request.php
+Response.php
+Router.php
+Session.php
+View.php
+composer.json
+README.md
+```
+
+## Configuration
+
+Configure:
+
+* Database
+* Base URL / routing
+* Error handling
+* Middleware registration
+* Autoloading
+
+## Extending & Customization
+
+You can build on the core by adding:
+
+* ORM enhancements
+* Dependency injection / service container
+* Advanced routing features
+* More middleware (auth, CSRF, caching)
+* Error & exception handling
+
+## Contributing
+
+Contributions are welcome! Please open issues or PRs.
+Follow code style, document changes, and test where possible.
+
+## License
+
+MIT License — see [LICENSE](LICENSE)
