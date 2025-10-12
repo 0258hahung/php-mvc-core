@@ -1,0 +1,15 @@
+{
+    "name": "droidevs/php-mvc-core",
+    "authors": [
+        {
+            "name": "Mouad OUMOUS",
+            "email": "mouadoumous@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "droidevs\\phpmvc\\": "."
+        }
+    }
+}
